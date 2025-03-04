@@ -69,7 +69,7 @@ Olá! Me chamo Samuel Moraes e sou um desenvolvedor web focado na criação de l
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=SamucaDev-page&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
@@ -78,7 +78,7 @@ Olá! Me chamo Samuel Moraes e sou um desenvolvedor web focado na criação de l
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaDev-page&theme=dracula&layout=compact" 
   />

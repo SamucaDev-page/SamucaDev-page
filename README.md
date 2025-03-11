@@ -10,7 +10,7 @@ Olá! Me chamo Samuel Moraes e sou um desenvolvedor web focado na criação de l
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
             target="_blank">
     </a>
-    <a href="https://www.instagram.com/s4muel.moraess/#" target="_blank">
+    <a href="https://pagelab.dev.br/#" target="_blank">
         <img 
             src="https://img.shields.io/badge/-PageLab-D2691E?style=for-the-badge&logo=Codeforces&logoColor=white" 
             target="_blank">

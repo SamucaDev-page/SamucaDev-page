@@ -1,4 +1,4 @@
-# 📟 Samuel Moraes
+# 📟 Samuel Moraes | Web Developer
 
 **`Desenvolvedor Front-End / Landing Pages`**
 

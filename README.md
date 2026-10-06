@@ -7,7 +7,7 @@ Olá! Sou **desenvolvedor Front-End**, focado na criação de **landing pages mo
 Atualmente, estou aprofundando meus conhecimentos em **JavaScript**, desenvolvimento web e consumo de APIs, sempre buscando evoluir através de novos projetos e desafios.
 
 <p align="left">
-    <a href="https://www.instagram.com/s4muel.moraess/#" target="_blank">
+    <a href="https://www.instagram.com/pagelabweb/" target="_blank">
         <img 
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
             target="_blank">

@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Front-End / Landing Pages`**
 
-Olá! Me chamo Samuel Moraes e sou um desenvolvedor web focado na criação de landing pages eficientes e modernas. Sou o criador da PageLab, onde transformo ideias em páginas de alta conversão. Atualmente, estou aprimorando minhas habilidades em JavaScript e sempre em busca de novos desafios e aprendizados..
+Olá! Sou **desenvolvedor Front-End**, focado na criação de **landing pages modernas, responsivas e intuitivas**. Sou criador da **PageLab**, onde transformo ideias em experiências digitais funcionais e bem estruturadas.
+
+Atualmente, estou aprofundando meus conhecimentos em **JavaScript**, desenvolvimento web e consumo de APIs, sempre buscando evoluir através de novos projetos e desafios.
 
 <p align="left">
     <a href="https://www.instagram.com/s4muel.moraess/#" target="_blank">
@@ -22,7 +24,7 @@ Olá! Me chamo Samuel Moraes e sou um desenvolvedor web focado na criação de l
             src="https://custom-icon-badges.demolab.com/github/stars/SamucaDev-page?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SamucaDev-page=followers">
+    <a href="https://github.com/SamucaDev-page?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -34,52 +36,38 @@ Olá! Me chamo Samuel Moraes e sou um desenvolvedor web focado na criação de l
 
 ---
 
-### 👨🏻‍💻 Linguagens e Tecnologias
+### 👨🏻‍💻 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<br/>
-<br/>
+- *Front-End:*  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- *Desenvolvimento:*  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+- *Design:*  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+---
+
+### 📚 Atualmente estudando
+
+- JavaScript
+- Manipulação do DOM
+- Consumo de APIs REST
+- Git & GitHub
+- Engenharia de Software
+- Banco de Dados
+- Design Digital
+- Redes de Computadores e Sistemas Operacionais
+
 ---
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SamucaDev-page&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaDev-page&theme=dracula&layout=compact" 
-  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SamucaDev-page&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaDev-page&theme=dracula&layout=compact" />
 </p>

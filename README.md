@@ -17,6 +17,13 @@ Atualmente, estou aprofundando meus conhecimentos em **JavaScript**, desenvolvim
             src="https://img.shields.io/badge/-PageLab-D2691E?style=for-the-badge&logo=Codeforces&logoColor=white" 
             target="_blank">
     </a>
+    <a href="https://www.linkedin.com/in/samuel-moraes-047584343/" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+            title="Meu LinkedIn"
+        />
+    </a>
     <a href="https://github.com/SamucaDev-page?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 

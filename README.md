@@ -24,6 +24,7 @@ Atualmente, estou aprofundando meus conhecimentos em **JavaScript**, desenvolvim
             title="Meu LinkedIn"
         />
     </a>
+    <a href="https://wa.me/5514998037613" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
 </p>
 
 
